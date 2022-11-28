@@ -1,0 +1,29 @@
+.home-main-div {
+    line-gap-override: normal;
+}
+.tags {
+    color: #5C5B46;
+}
+.tag-text {
+    color: #F000AF;
+}
+.text {
+    color: #CCD3D3;
+    text-shadow: 1px 1px #CCD3D3;
+}
+.head, .body {
+    text-indent: 50px;
+}
+.title, .h1, .a {
+    text-indent: 100px;
+}
+a {
+    text-decoration: none;
+}
+a:hover {
+    text-decoration: underline;
+}
+pre {
+    padding: 9px 0;
+}
+
