@@ -23,7 +23,17 @@ a {
 a:hover {
     text-decoration: underline;
 }
-pre {
-    padding: 9px 0;
+
+.fade-in {
+    animation: fadeInAnimation 2s;
+}
+  
+@keyframes fadeInAnimation {
+    from {
+        opacity:0;
+    }
+    to {
+        opacity:1;
+    }
 }
 

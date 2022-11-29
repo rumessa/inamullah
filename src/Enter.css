@@ -15,8 +15,8 @@
 }
 
 .file {
-    width: 100px;
-    height: 100px;
+    width: 150px;
+    height: 150px;
 }
 
 .file-name {
@@ -24,20 +24,3 @@
     font-family: 'Segoe UI Variable', sans-serif;
     font-size: 30px;
 }
-
-.fade-enter {
-    opacity: 0;
-}
-
-.fade-enter-active {
-    opacity: 1;
-    transition: opacity 20000ms;
-}
-
-.fade-exit {
-    opacity: 1;
-  }
-  .fade-exit-active {
-    opacity: 0;
-    transition: opacity 20000ms;
-  }

@@ -2,7 +2,7 @@ import './Home.css';
 
 function Home() {
     return (
-            <div className='home-main-div'>
+            <div className='home-main-div fade-in'>
                 <pre className="tags html">{`<`}<span className="tag-text">html</span>{`>`}</pre>
 
                 <pre className="tags head">{`<`}<span className="tag-text">head</span>{`>`}</pre>
